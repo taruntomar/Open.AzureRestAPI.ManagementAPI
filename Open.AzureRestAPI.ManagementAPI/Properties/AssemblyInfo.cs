@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Open.AzureRestAPI.ManagementAPI")]
+[assembly: AssemblyTitle("Open.Open.AzureRestAPI.ManagementAPI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Open.AzureRestAPI.ManagementAPI")]
+[assembly: AssemblyProduct("Open.Open.AzureRestAPI.ManagementAPI")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
